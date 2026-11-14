@@ -8,6 +8,4 @@ public class Sensor {
         this.temperatura = temperatura;
     }
 
-    // La temperatura es privada y no tiene métodos para consultarla o cambiarla.
-    // El código funciona, pero otras clases no pueden acceder a ese dato.
 }
